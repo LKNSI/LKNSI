@@ -2,7 +2,16 @@
 
 ---
 > [!TIP]
-> `It do be like that sometimes.`
+> It <sub>do</sub> be like <sup>that</sup> sometimes.
+
+
+
+### Get your dopamine here:
+[Personal Writings](https://marcus.naughton.ie)
+
+[Portfolio](https://naughton.ie)
+
+
 
 
 <!--
