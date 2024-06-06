@@ -1,4 +1,9 @@
-## Hi there 👋
+<img width="1600" alt="Screenshot 2024-06-06 at 10 28 00 AM" src="https://github.com/LKNSI/LKNSI/assets/3456318/c4287b02-330b-4099-8bae-57c6a85cdfd6">
+
+---
+> [!TIP]
+> `It do be like that sometimes.`
+
 
 <!--
 **LKNSI/LKNSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
