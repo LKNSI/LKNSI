@@ -7,11 +7,9 @@
 
 
 ### Get your dopamine here:
-[Personal Writings](https://marcus.naughton.ie)
-
 [Portfolio](https://naughton.ie)
 
-
+[Personal Writings](https://marcus.naughton.ie)
 
 
 <!--
